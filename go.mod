@@ -1,4 +1,4 @@
-module github.com/freeeve/pgn
+module github.com/dexygen/pgn_4go
 
 go 1.14
 
